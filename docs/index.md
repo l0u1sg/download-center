@@ -1,17 +1,10 @@
-# Welcome to MkDocs
+# Download Center
+Welcome to my Download Center. 
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+## Before starting
+Some of the downloads on this site require the JDownloader software which you can install via the following links. This software is free and open source and allows you to retrieve automatically the download links.  
 
-## Commands
+- [Download for Windows](https://jdownloader.org/dl?v=101)  
+- [Download for Mac](https://mega.nz/file/GBUViKCI#ZVG9zQihMykqZ4SvAFEVZ4-DzK5FBQINReLM9zlPCe4)  
+- [Download for Linx](https://mega.nz/file/GBUViKCI#ZVG9zQihMykqZ4SvAFEVZ4-DzK5FBQINReLM9zlPCe4)
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
