@@ -1,6 +1,7 @@
 # Linux ISOs
 
-All downloads in this section require JDownloader. See [here for installation](https://dw.louisgallet.fr/)
+!!! warning
+    All downloads in this section require JDownloader. See [here for installation](https://dw.louisgallet.fr/)
 
 ## Ubuntu
 

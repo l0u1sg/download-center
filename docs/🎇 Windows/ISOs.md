@@ -1,7 +1,6 @@
 # Windows ISOs
 
-All downloads in this section require JDownloader. See [here for installation](https://dw.louisgallet.fr/)
-
 !!! warning
+    All downloads in this section require JDownloader. See [here for installation](https://dw.louisgallet.fr/)
 
-    No downloads are available at the moment. Please come back later.
+- [Windows 10 LTSC (Evaluation Version)](https://s3.louisgallet.fr/dw/windows/Win10_LTSC.dlc)
